@@ -1,0 +1,18 @@
+{
+"arnavi":{
+	"host":"192.168.1.1",
+	"port":55000,
+	"conLiveSec":420
+},
+"reportsyst":{
+	"host":"192.168.1.1",
+	"port":55001,
+	"conLiveSec":300		
+},
+"processCount":2,
+"storageConnection":"postgresql://USER_NAME:USER_PWD@DB_IP:DB_PORT/DB_NAME",
+"logLevel":"debug",
+"connMaxIdleTime":2000,
+"connMaxTime":300000,
+"commandKey":"eg419rh4t14mn4s54tgr7g1"
+}
